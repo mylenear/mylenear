@@ -1,4 +1,5 @@
 ## Hi there 👋
+Here is some code and small projects where I learn new skills
 
 <!--
 **mylenear/mylenear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
